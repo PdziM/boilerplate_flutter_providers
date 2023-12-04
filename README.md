@@ -1,4 +1,4 @@
-# sql_app
+# boilerplate_flutter_providers
 
 A new Flutter project.
 
